@@ -59,7 +59,7 @@ font-weight: bold;
     border: none;
     padding: 8px 12px;
     border-radius: 5px;
-    margin-left: 10px; /* Espacio entre los botones */
+    margin-left: 10px; 
     cursor: pointer;
 }
 
@@ -108,24 +108,24 @@ font-weight: bold;
 
 .aboutUs {
     display: flex;
-    justify-content: space-between; /* Alinea los elementos al principio y al final del contenedor */
-    align-items: center; /* Centra verticalmente los elementos */
+    justify-content: space-between; 
+    align-items: center; 
     background-color: #e9ecef;
 }
 
 .aboutUsContent {
-    flex: 1; /* Hace que ocupe todo el espacio disponible */
-    padding: 0 20px; /* Añade espaciado horizontal alrededor del contenido */
+    flex: 1; 
+    padding: 0 20px; 
     flex-direction: flex-end;
 }
 .image-logo-dos {
-    flex-shrink: 0; /* Evita que la imagen se reduzca para ajustarse al contenido */
-    margin-left: 20px; /* Añade espacio entre la imagen y el contenido de texto */
+    flex-shrink: 0; 
+    margin-left: 20px; 
 }
 
 .image-logo-dos img {
-    max-width: 100%; /* Ajusta la imagen al ancho del contenedor */
-    height: auto; /* Mantiene la proporción de la imagen */
+    max-width: 100%; 
+    height: auto;
 }
 
 .footer {
@@ -136,8 +136,8 @@ font-weight: bold;
 }
 
 .footer-content {
-    max-width: 1200px; /* Ajusta el ancho del contenido si es necesario */
-    margin: 0 auto; /* Centra el contenido horizontalmente */
+    max-width: 1200px; 
+    margin: 0 auto; 
 }
 
 /* Login*/
@@ -265,7 +265,7 @@ p {
     border: none;
     padding: 8px 12px;
     border-radius: 5px;
-    margin-left: 10px; /* Espacio entre los botones */
+    margin-left: 10px; 
     cursor: pointer;
 }
 
@@ -310,7 +310,7 @@ li a:hover{
 }
 
 .imgexplore {
-    flex: 1; /* Ocupa todo el espacio disponible */
+    flex: 1; 
     background-color: #cfccccf0;
     display: flex;
     flex-direction: column;
