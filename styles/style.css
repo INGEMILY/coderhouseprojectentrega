@@ -35,11 +35,13 @@ a.nav-link{
 }
 
 h1 {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Ubuntu";
   font-weight: 800;
   text-align: center;
   background-color: rgb(223, 224, 217);
 }
+
+
 .index{
     background-color:#000000
 }
@@ -171,7 +173,7 @@ font-weight: bold;
     background-color: rgb(42, 42, 42);
     color: white;
     padding: 20px;
-    text-align: center;
+    text-align:left;
 }
 
 .footer-content {
